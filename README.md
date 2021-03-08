@@ -1,2 +1,2 @@
-Anosh Viraf Pesuna
-Week 1 Application Assignment
+Author: Anosh Viraf Pesuna
+Project: Week 1 Application Assignment
